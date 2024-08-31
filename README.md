@@ -6,6 +6,10 @@
 ./install_rye_mac.sh
 ```
 
+OR
+
+https://rye.astral.sh/guide/installation/
+
 ### set .env
 ```
 make .env file on working directory.
